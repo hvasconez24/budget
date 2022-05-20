@@ -1,5 +1,7 @@
 # Budget Tracker 
 Deploy Link:  https://serene-spire-66249.herokuapp.com/
+# Mocked-Up
+![alt tag](https://github.com/hvasconez24/budget/blob/main/assets/Images/5eaef9d4-baac-458d-9748-2cb27d90a35c.jpg)
 # Description
 Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information
 # Application Functionalities
